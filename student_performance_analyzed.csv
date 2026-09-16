@@ -1,0 +1,11 @@
+Student_ID,Study_Hours,Attendance,Assignment_Marks,Midterm_Marks,Final_Marks,Performance_Category
+101,2,75,60,55,58,Low
+102,5,90,85,82,86,High
+103,3,80,70,68,72,Medium
+104,7,95,95,92,96,High
+105,4,85,80,76,79,Medium
+106,6,92,90,88,91,High
+107,1,65,50,45,48,Low
+108,8,98,98,95,97,High
+109,5,88,87,84,89,High
+110,3,78,72,70,74,Medium
