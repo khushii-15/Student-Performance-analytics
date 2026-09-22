@@ -62,3 +62,10 @@ This project uses a sample dataset created for educational and demonstration pur
 Khushi Verma
 
 B.Tech Computer Science Engineering Student
+
+## 📁 Project Structure
+
+- `Student_Performance_Analytics.ipynb` – Complete Python analysis notebook
+- `student_performance_analyzed.csv` – Analyzed student dataset
+- `requirements.txt` – Required Python libraries
+- `README.md` – Project documentation
